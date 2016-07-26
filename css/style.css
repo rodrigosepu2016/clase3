@@ -1,0 +1,13 @@
+body{
+			 background: white url("https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/85/851/851025/poly-background-white-o.jpg?1450172776") no-repeat fixed center; 
+
+		}
+
+		h1{font-size: 44px;color:blue;}
+		h1:hover {
+
+			color:black;
+			cursor: pointer;
+		}
+	
+}
